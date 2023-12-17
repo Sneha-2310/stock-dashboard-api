@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/stock-dashboard-api/static/css/main.6c7ad03a.css",
+    "main.js": "/stock-dashboard-api/static/js/main.d2e203b1.js",
+    "static/js/787.24a9553e.chunk.js": "/stock-dashboard-api/static/js/787.24a9553e.chunk.js",
+    "index.html": "/stock-dashboard-api/index.html",
+    "main.6c7ad03a.css.map": "/stock-dashboard-api/static/css/main.6c7ad03a.css.map",
+    "main.d2e203b1.js.map": "/stock-dashboard-api/static/js/main.d2e203b1.js.map",
+    "787.24a9553e.chunk.js.map": "/stock-dashboard-api/static/js/787.24a9553e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c7ad03a.css",
+    "static/js/main.d2e203b1.js"
+  ]
+}
